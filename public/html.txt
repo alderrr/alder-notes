@@ -1,3 +1,5 @@
+Responsive Web Design usually uses these languages to build webpages: HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.
+
 HTML elements have opening tags like <h1> and closing tags like </h1>. The text an element will display goes between its opening and closing tags.
 
 The h1 through h6 heading elements are used to signify the importance of content below them. The lower the number, the higher the importance, so h2 elements have less importance than h1 elements.
