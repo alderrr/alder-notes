@@ -43,4 +43,28 @@ Here is an example of turning an image into a link:
 
 The section element is used to define sections in a document, such as chapters, headers, footers, or any other sections of the document. It is a semantic element that helps with SEO and accessibility.
 
-(Next starting from 30)
+When you add a lower rank heading element to the page, it's implied that you're starting a new subsection.
+
+To create an unordered list of items, you can use the ul element.
+
+The li element is used to create a list item in an ordered or unordered list.
+
+The figure element represents self-contained content and will allow you to associate an image with a caption.
+
+A figure caption (figcaption) element is used to add a caption to describe the image contained within the figure element.
+
+To place emphasis on a specific word or phrase, you can use the em element.
+
+The code for an ordered list (ol) is similar to an unordered list, but list items in an ordered list are numbered when displayed.
+
+The strong element is used to indicate that some text is of strong importance or urgent.
+
+The form element is used to get information from a user like their name, email, and other details.
+
+The action attribute indicates where form data should be sent.
+
+    Example:    <form action="/submit-url"></form>
+
+The input element allows you several ways to collect data from a web form. Like img elements, input elements are a void element and do not need closing tags.
+
+There are many kinds of inputs you can create using the type attribute. You can easily create a password field, reset button, or a control to let users select a file from their computer.
